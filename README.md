@@ -1,2 +1,2 @@
-# merepo
-This is sample repo
+# myrepo
+This issample repo
