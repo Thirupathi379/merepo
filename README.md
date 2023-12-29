@@ -1,2 +1,2 @@
-# myrepo
+# merepo
 This issample repo
